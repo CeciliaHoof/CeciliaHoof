@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I made the transition to tech after five years of working in adult and neonatal intensive care unit., and I am passionate about improving lives through innovation.
+I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I made the transition to tech after five years of working in adult and neonatal intensive care units, and I am passionate about improving lives through innovation.
 
 😄 pronouns: she/her <br>
 ⚡️ fun fact: I've been to 28 National Parks in the last 3 years! <br>
