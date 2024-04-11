@@ -11,14 +11,14 @@ I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I 
 
 [![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1QJfEKWh_OUCO-vbtqWG0wc3NF79N4Qy4/view?usp=sharing)<br>
 #### 🚶‍♀️‍➡️ Currently...
-💻 working on: [EMpowR](https://github.com/CeciliaHoof/EMpowR) <br>
-🌱 learning: Next.js, TypeScript <br>
-👯 looking to collaborate on: Anything! Let's work together to build something great! <br>
+&nbsp; &nbsp;💻 working on: [EMpowR](https://github.com/CeciliaHoof/EMpowR) <br>
+&nbsp; &nbsp;🌱 learning: Next.js, TypeScript <br>
+&nbsp; &nbsp;👯 looking to collaborate on: Anything! Let's work together to build something great! <br>
 
 
 #### 🏃‍♀️‍➡️ Up Next...
-💻 work on: MY PORTFOLIO! It needs to happen. <br>
-🌱 learning: React Native <br>
+&nbsp; &nbsp;💻 work on: MY PORTFOLIO! It needs to happen. <br>
+&nbsp; &nbsp;🌱 learning: React Native <br>
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-chimento/) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ccchimento)&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccchimento@gmail.com)<br>
