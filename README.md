@@ -10,13 +10,13 @@ I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I 
 &nbsp; &nbsp; ❤️ favorite: Bryce Canyon NP, Utah
 
 [![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1QJfEKWh_OUCO-vbtqWG0wc3NF79N4Qy4/view?usp=sharing)<br>
-#### ▶ Currently...
+#### 🚶‍♀️‍➡️ Currently...
 💻 working on: [EMpowR](https://github.com/CeciliaHoof/EMpowR) <br>
 🌱 learning: Next.js, TypeScript <br>
 👯 looking to collaborate on: Anything! Let's work together to build something great! <br>
 
 
-#### ⏭ Up Next...
+#### 🏃‍♀️‍➡️ Up Next...
 💻 work on: MY PORTFOLIO! It needs to happen. <br>
 🌱 learning: React Native <br>
 
