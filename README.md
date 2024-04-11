@@ -9,7 +9,7 @@ I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I 
 ⚡️ fun fact: I've been to 28 National Parks in the last 3 years! <br>
 &nbsp; &nbsp; ❤️ favorite: Bryce Canyon NP, Utah
 
-[![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)]((https://drive.google.com/file/d/1yZEZVENNLNtn9mb1XbJbzfcBcttaHwKu/view?usp=sharing))<br>
+[![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1yZEZVENNLNtn9mb1XbJbzfcBcttaHwKu/view?usp=sharing)<br>
 #### 🚶‍♀️‍➡️ Currently...
 &nbsp; &nbsp;💻 working on: [EMpowR](https://github.com/CeciliaHoof/EMpowR) <br>
 &nbsp; &nbsp;🌱 learning: Next.js, TypeScript <br>
