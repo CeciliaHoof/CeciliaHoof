@@ -17,7 +17,7 @@ I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I 
 
 
 #### 🏃‍♀️‍➡️ Up Next...
-&nbsp; &nbsp;💻 work on: MY PORTFOLIO! It needs to happen. <br>
+&nbsp; &nbsp;💻 work on: TBD <br>
 &nbsp; &nbsp;🌱 learning: React Native <br>
 
 ### 🌐 Let's Connect!
