@@ -3,16 +3,17 @@
 
 ## 💫 About me
 
-I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I made the transition to tech after five years of working in adult and neonatal intensive care units, and I am passionate about improving lives through innovation.
+I'm Cecilia Chimento, a Full Stack Software Engineer and Critical Care Nurse. I made the transition to tech after five years of working in adult and neonatal intensive care units, and I am passionate about improving lives through innovation.
 
 😄 pronouns: she/her <br>
+📍 Charleston, SC → Santa Fe, NM → Seattle, WA <br>
 ⚡️ fun fact: I've been to 28 National Parks in the last 3 years! <br>
 &nbsp; &nbsp; ❤️ favorite: Bryce Canyon NP, Utah
 
-[![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1vAZwgaDun69z8BR-TRTym3fFgLw4Q1Ew/view?usp=sharing)<br>
+[![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1NgoCFWKxQCkheos4-UVVhT2NqutUcc5X/view?usp=sharing)<br>
 #### 🚶‍♀️‍➡️ Currently...
 &nbsp; &nbsp;💻 working on: [EMpowR](https://github.com/CeciliaHoof/EMpowR) <br>
-&nbsp; &nbsp;🌱 learning: Next.js, TypeScript <br>
+&nbsp; &nbsp;🌱 learning: Node.js <br>
 &nbsp; &nbsp;👯 looking to collaborate on: Anything! Let's work together to build something great! <br>
 
 
@@ -21,8 +22,8 @@ I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I 
 &nbsp; &nbsp;🌱 learning: React Native <br>
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-chimento/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ccchimento)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-chimento/) &nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ccchimento) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccchimento@gmail.com)<br>
 
 ### 💻 Tech Stack:
@@ -44,5 +45,5 @@ I'm Cecilia Chimento, a Full-Stack Software Engineer and Critical Care Nurse. I 
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-35BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/miro-050038.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/miro-050038.svg?style=for-the-badge&logo=miro&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
