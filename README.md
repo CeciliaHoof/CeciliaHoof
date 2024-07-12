@@ -12,7 +12,7 @@ I'm Cecilia Chimento, a Full Stack Software Engineer and Critical Care Nurse. I 
 
 [![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1NgoCFWKxQCkheos4-UVVhT2NqutUcc5X/view?usp=sharing)<br>
 #### 🚶‍♀️‍➡️ Currently...
-&nbsp; &nbsp;💻 working on: [EMpowR](https://github.com/CeciliaHoof/EMpowR) <br>
+&nbsp; &nbsp;💻 working on: Learning new things! <br>
 &nbsp; &nbsp;🌱 learning: Node.js <br>
 &nbsp; &nbsp;👯 looking to collaborate on: Anything! Let's work together to build something great! <br>
 
